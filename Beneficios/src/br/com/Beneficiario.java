@@ -71,14 +71,14 @@ public class Beneficiario {
 
     }
 
-    boolean transfereBeneficioParaOutroBeneficiario( Beneficiario beneficiarioDestino,
-                                  TipoBeneficio tipoBeneficio, double valor) {
+    boolean transfereBeneficioParaOutroBeneficiario(Beneficiario beneficiarioDestino,
+                                                    TipoBeneficio tipoBeneficio, double valor) {
         boolean resultado = false;
         boolean retornoSaca = this.saca(tipoBeneficio, valor);
-        if(retornoSaca){
-            beneficiarioDestino.deposita(tipoBeneficio,valor);
+        if (retornoSaca) {
+            beneficiarioDestino.deposita(tipoBeneficio, valor);
             resultado = true;
-        }else{
+        } else {
             System.out.println("Saldo insuficiente no " + beneficiarioDestino + "para realizar essa transferência");
         }
 
@@ -88,73 +88,13 @@ public class Beneficiario {
     boolean transfereBeneficio(TipoBeneficio tipoBeneficioOrigem, TipoBeneficio tipoBeneficioDestino, double valor) {
         boolean resultado = false;
         boolean saqueRealizado = saca(tipoBeneficioOrigem, valor);
-        if (saqueRealizado){
+        if (saqueRealizado) {
             deposita(tipoBeneficioDestino, valor);
             resultado = true;
-        }
-        else{
+        } else {
             System.out.println("Saldo insuficiente no " + tipoBeneficioOrigem + " para realizar essa transferência");
         }
         return resultado;
     }
 
-
-//    void transfere(Beneficiario beneficiario, double valor, TipoBeneficio origemPontos, TipoBeneficio destinoPontos) {
-//        boolean realizado = saca(origemPontos, valor);
-//        if (realizado) {
-
-//    void transfere(Beneficiario destino, int valor, TipoBeneficio origemPontos, TipoBeneficio destinoPontos) {
-//        boolean realizado = saca(valor, origemPontos);
-//        if (realizado) {
-//            destino.deposita(valor, destinoPontos);
-//
-//            System.out.println("Um saque de " + valor + " pontos do " + origemPontos + " foi realizado do funcionario " + nome + " " +
-//                    "e depositado no " + destinoPontos + " do funcionario " + destino.nome);
-//
-//        } else {
-//            System.out.println("Não tem saldo");
-//        }
-//    }
-
-/*
-    private void printaLogOrigem(int valor, TipoBeneficio origem) {
-        switch (origem) {
-            case VR:
-                System.out.print(nome + " tranferiu do seu VR o valor de " + valor);
-                break;
-            case VA:
-                System.out.print(nome + " tranferiu do seu VA o valor de " + valor);
-                break;
-            case VC:
-                System.out.print(nome + " tranferiu do seu VC o valor de " + valor);
-                break;
-        }
-    }
-
-    private void printaLogDestinoPontos(Beneficios destino, TipoBeneficio destinoPontos) {
-        switch (destinoPontos) {
-            case VR:
-                System.out.println(" pontos para o VR de " + destino.nome);
-                break;
-            case VA:
-                System.out.println(" pontos para o VA de" + destino.nome);
-                break;
-            case VC:
-                System.out.println(" pontos para o VC de" + destino.nome);
-                break;
-        }
-    }
-
- */
-
-    String DadosParaImpressao() {
-        String dados = "============================================================================";
-        dados += "\nTitular: " + nome;
-        dados += " - Número funcional: " + cadastro;
-//        dados += " - Saldo do VR: " + VR + " pontos";
-//        dados += " - Saldo do VA: " + VA + " pontos";
-//        dados += " - Saldo do VC: " + VC + " pontos";
-        dados += "\n****************************************************************************";
-        return dados;
-    }
 }
