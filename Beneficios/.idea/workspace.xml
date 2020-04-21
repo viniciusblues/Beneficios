@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ab5f4b3-a709-472c-9b8b-e25c307f491b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aVeMCpqUtyFsssoUzod9YoF7CN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Programa2">
+    <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.Programa" />
+      <module name="Beneficios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Programa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.Programa2" />
+      <module name="Beneficios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Programa2" />
+        <item itemvalue="Application.Programa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ab5f4b3-a709-472c-9b8b-e25c307f491b" name="Default Changelist" comment="" />
+      <created>1586825137177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586825137177</updated>
+      <workItem from="1587491501828" duration="9437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1587423500638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587423500638" />
+    <state width="427" height="466" key="DebuggerActiveHint" timestamp="1587429732090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="427" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1587429732090" />
+    <state x="463" y="96" key="FileChooserDialogImpl" timestamp="1587498987552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="96" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587498987552" />
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom" timestamp="1587501432045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587501432045" />
+    <state width="1323" height="149" key="GridCell.Tab.0.center" timestamp="1587501432045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587501432045" />
+    <state width="1323" height="149" key="GridCell.Tab.0.left" timestamp="1587501432045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587501432045" />
+    <state width="1323" height="149" key="GridCell.Tab.0.right" timestamp="1587501432045">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587501432045" />
+    <state width="1323" height="290" key="GridCell.Tab.1.bottom" timestamp="1587500460440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="290" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587500460440" />
+    <state width="1323" height="290" key="GridCell.Tab.1.center" timestamp="1587500460440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="290" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587500460440" />
+    <state width="1323" height="290" key="GridCell.Tab.1.left" timestamp="1587500460440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="290" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587500460440" />
+    <state width="1323" height="290" key="GridCell.Tab.1.right" timestamp="1587500460440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="290" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587500460440" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1587421445741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587421445741" />
+    <state x="404" y="105" width="540" height="524" key="StructurePopup" timestamp="1587423938476">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="404" y="105" width="540" height="524" key="StructurePopup/0.0.1366.728@0.0.1366.728" timestamp="1587423938476" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586993868584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1586993868584" />
+    <state x="474" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587424960881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="46" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1587424960881" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1587425837211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1587425837211" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-2" timestamp="1587425837211">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1587425837211" />
+    <state x="413" y="126" key="extract.method.dialog" timestamp="1587498876765">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="126" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1587498876765" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587498401209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587498401209" />
+  </component>
+</project>
