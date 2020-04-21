@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Beneficiario {
-    //atributos
     private int cadastro;
     private String nome;
     private List<Beneficio> beneficios;
